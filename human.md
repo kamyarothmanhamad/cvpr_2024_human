@@ -20,7 +20,6 @@
 18. **Human Gaussian Splatting: Real-time Rendering of Animatable Avatars**
 19. **SiTH: Single-view Textured Human Reconstruction with Image-Conditioned Diffusion**
 
-These papers focus on 3D human mesh recovery, human motion reconstruction, and related techniques using images or videos.
 
 **Human Motion Prediction and Understanding in 3D**:
 
