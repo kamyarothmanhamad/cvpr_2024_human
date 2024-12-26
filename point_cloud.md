@@ -1,4 +1,4 @@
-To cluster these papers, I will categorize them according to common topics in the point cloud literature and industry. The categories will include:
+:
 
 1. **Point Cloud Generation and Denoising**
 2. **Point Cloud Registration**
