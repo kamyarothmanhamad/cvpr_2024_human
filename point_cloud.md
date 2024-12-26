@@ -74,6 +74,51 @@
 - TetraSphere: A Neural Descriptor for O(3)-Invariant Point Cloud Analysis (sampling)
 - **Multiway Point Cloud Mosaicking with Diffusion and Global Optimization**
 
+
+### 13. **Processing and Filtering**
+**Point Cloud Processing**
+- "StraightPCF: Straight Point Cloud Filtering"
+- "LTA-PCS: Learnable Task-Agnostic Point Cloud Sampling"
+- "Local-consistent Transformation Learning for Rotation-invariant Point Cloud Analysis"
+- "Multiway Point Cloud Mosaicking with Diffusion and Global Optimization"
+
+
+
+
+### 14. **Applications and Domain-Specific**
+**Autonomous Driving**
+- "Visual Point Cloud Forecasting enables Scalable Autonomous Driving"
+
+**Human-Centric Applications**
+- "Single-View Scene Point Cloud Human Grasp Generation"
+- "HandDiff: 3D Hand Pose Estimation with Diffusion on Image-Point Cloud"
+- "A Unified Framework for Human-centric Point Cloud Video Understanding"
+  
+**Multi-modal Learning**
+- "Text2Loc: 3D Point Cloud Localization from Natural Language"
+- "Cloud-Device Collaborative Learning for Multimodal Large Language Models"
+
+
+
+
+Pre-training and Transfer Learning
+
+"Dynamic Adapter Meets Prompt Tuning: Parameter-Efficient Transfer Learning"
+"Mitigating Object Dependencies: Improving Point Cloud Self-Supervised Learning"
+"Geometrically-driven Aggregation for Zero-shot 3D Point Cloud Understanding"
+
+
+Quality Assessment
+
+"Contrastive Pre-Training with Multi-View Fusion for No-Reference Point Cloud Quality Assessment"
+
+
+Occupancy and Scene Understanding
+
+"Unsupervised Occupancy Learning from Sparse Point Cloud"
+"L4D-Track: Language-to-4D Modeling Towards 6-DoF Tracking and Shape Reconstruction"
+"Object Dynamics Modeling with Hierarchical Point Cloud-based Representations"
+
 ---
 
 
