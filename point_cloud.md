@@ -51,6 +51,9 @@
 - **Dynamic Adapter Meets Prompt Tuning: Parameter-Efficient Transfer Learning for Point Cloud Analysis**
 - **Mitigating Object Dependencies: Improving Point Cloud Self-Supervised Learning through Object Exchange**
 - **Contrastive Pre-Training with Multi-View Fusion for No-Reference Point Cloud Quality Assessment**
+- Unsupervised Occupancy Learning from Sparse Point Cloud
+= Unsupervised Template-assisted Point Cloud Shape Correspondence Network
+
 
 ### 7. **Localization, Shape Correspondence, and Grasping**
 - **Text2Loc: 3D Point Cloud Localization from Natural Language**
