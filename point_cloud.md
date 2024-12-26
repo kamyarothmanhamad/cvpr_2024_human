@@ -78,7 +78,8 @@
 ### 12. **Miscellaneous (Other Topics)**
 - **Geometrically-driven Aggregation for Zero-shot 3D Point Cloud Understanding**
 - **Object Dynamics Modeling with Hierarchical Point Cloud-based Representations**
-- **LTA-PCS: Learnable Task-Agnostic Point Cloud Sampling**
+- **LTA-PCS: Learnable Task-Agnostic Point Cloud Sampling** (sampling)
+- TetraSphere: A Neural Descriptor for O(3)-Invariant Point Cloud Analysis (sampling)
 - **Multiway Point Cloud Mosaicking with Diffusion and Global Optimization**
 
 ---
