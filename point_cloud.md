@@ -1,19 +1,4 @@
-:
 
-1. **Point Cloud Generation and Denoising**
-2. **Point Cloud Registration**
-3. **Point Cloud Segmentation**
-4. **Point Cloud Classification**
-5. **Point Cloud Upsampling**
-6. **Pre-Training, Transfer Learning, and Self-Supervised Learning**
-7. **Localization, Shape Correspondence, and Grasping**
-8. **Human-Centric and 4D Point Cloud Analysis**
-9. **Applications in Autonomous Driving**
-10. **Datasets and Frameworks**
-11. **Multimodal Learning and Transformer-Based Models**
-12. **Miscellaneous (Other Topics)**
-
----
 
 ### 1. **Point Cloud Generation and Denoising**
 - **TIGER: Time-Varying Denoising Model for 3D Point Cloud Generation with Diffusion Process**
@@ -84,4 +69,4 @@
 
 ---
 
-This clustering follows common research and industry themes in point cloud analysis, such as registration, segmentation, classification, upsampling, and various specialized applications like human-centric modeling and autonomous driving.
+
