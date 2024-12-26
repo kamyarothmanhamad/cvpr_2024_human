@@ -1,9 +1,16 @@
 
 
-### 1. **Point Cloud Generation and Denoising**
-- **TIGER: Time-Varying Denoising Model for 3D Point Cloud Generation with Diffusion Process**
-- **Neural Point Cloud Diffusion for Disentangled 3D Shape and Appearance Generation**
-- **A Conditional Denoising Diffusion Probabilistic Model for Point Cloud Upsampling**
+### 1. **Generation and Synthesis**
+- **Core Generatation**
+  - **TIGER: Time-Varying Denoising Model for 3D Point Cloud Generation with Diffusion Process**
+  - **Neural Point Cloud Diffusion for Disentangled 3D Shape and Appearance Generation**
+  - **Point Cloud Pre-training with Diffusion Models**
+ 
+    
+- **Upsampling**
+  - "SPU-PMD: Self-Supervised Point Cloud Upsampling via Progressive Mesh Deformation"
+  - **A Conditional Denoising Diffusion Probabilistic Model for Point Cloud**
+  - "RepKPU: Point Cloud Upsampling with Kernel Point Representation and Deformation"
 
 ### 2. **Point Cloud Registration**
 - **Inlier Confidence Calibration for Point Cloud Registration**
@@ -15,8 +22,8 @@
 ### 3. **Point Cloud Segmentation**
 - **OneFormer3D: One Transformer for Unified Point Cloud Segmentation**
 - **Weakly Supervised Point Cloud Semantic Segmentation via Artificial Oracle**
-- **FreePoint: Unsupervised Point Cloud Instance Segmentation**
-- **Spherical Mask: Coarse-to-Fine 3D Point Cloud Instance Segmentation with Spherical Representation**
+- **FreePoint: Unsupervised Point Cloud Instance Segmentation** (instance segmentation)
+- **Spherical Mask: Coarse-to-Fine 3D Point Cloud Instance Segmentation with Spherical Representation** (instance segmentation)
 - **PDF: A Probability-Driven Framework for Open World 3D Point Cloud Semantic Segmentation**
 - **Construct to Associate: Cooperative Context Learning for Domain Adaptive Point Cloud Segmentation**
 - **Rethinking Few-shot 3D Point Cloud Semantic Segmentation**
