@@ -36,7 +36,7 @@
 11. **Disentangled Pre-training for Human-Object Interaction Detection**
 12. **Multimodal Sense-Informed Forecasting of 3D Human Motions**
 
-**human-object interaction**, **action detection**, and **scene interaction** based on the titles:
+**human-object interaction**, **action detection**, and **scene interaction**:
 
 1. **3DInAction: Understanding Human Actions in 3D Point Clouds**
 2. **Open-World Human-Object Interaction Detection via Multi-modal Prompts**
