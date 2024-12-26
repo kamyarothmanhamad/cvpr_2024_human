@@ -1,0 +1,168 @@
+
+TIGER: Time-Varying Denoising Model for 3D Point Cloud Generation with Diffusion Process
+Zhiyuan Ren, Minchul Kim, Feng Liu, Xiaoming Liu
+[pdf] [supp] [bibtex]
+
+Text2Loc: 3D Point Cloud Localization from Natural Language
+Yan Xia, Letian Shi, Zifeng Ding, Joao F. Henriques, Daniel Cremers
+[pdf] [supp] [arXiv] [bibtex]
+
+Coupled Laplacian Eigenmaps for Locally-Aware 3D Rigid Point Cloud Matching
+Matteo Bastico, Etienne Decencière, Laurent Corté, Yannick Tillier, David Ryckelynck
+[pdf] [supp] [bibtex]
+
+Unsupervised Occupancy Learning from Sparse Point Cloud
+Amine Ouasfi, Adnane Boukhayma
+[pdf] [supp] [arXiv] [bibtex]
+
+Contrastive Pre-Training with Multi-View Fusion for No-Reference Point Cloud Quality Assessment
+Ziyu Shan, Yujie Zhang, Qi Yang, Haichen Yang, Yiling Xu, Jenq-Neng Hwang, Xiaozhong Xu, Shan Liu
+[pdf] [arXiv] [bibtex]
+
+Dynamic Adapter Meets Prompt Tuning: Parameter-Efficient Transfer Learning for Point Cloud Analysis
+Xin Zhou, Dingkang Liang, Wei Xu, Xingkui Zhu, Yihan Xu, Zhikang Zou, Xiang Bai
+[pdf] [supp] [arXiv] [bibtex]
+
+L4D-Track: Language-to-4D Modeling Towards 6-DoF Tracking and Shape Reconstruction in 3D Point Cloud Stream
+Jingtao Sun, Yaonan Wang, Mingtao Feng, Yulan Guo, Ajmal Mian, Mike Zheng Shou
+[pdf] [supp] [bibtex]
+
+Mitigating Object Dependencies: Improving Point Cloud Self-Supervised Learning through Object Exchange
+Yanhao Wu, Tong Zhang, Wei Ke, Congpei Qiu, Sabine Süsstrunk, Mathieu Salzmann
+[pdf] [supp] [arXiv] [bibtex]
+
+LiDAR-Net: A Real-scanned 3D Point Cloud Dataset for Indoor Scenes
+Yanwen Guo, Yuanqi Li, Dayong Ren, Xiaohong Zhang, Jiawei Li, Liang Pu, Changfeng Ma, Xiaoyu Zhan, Jie Guo, Mingqiang Wei, Yan Zhang, Piaopiao Yu, Shuangyu Yang, Donghao Ji, Huisheng Ye, Hao Sun, Yansong Liu, Yinuo Chen, Jiaqi Zhu, Hongyu Liu
+[pdf] [supp] [bibtex]
+
+RepKPU: Point Cloud Upsampling with Kernel Point Representation and Deformation
+Yi Rong, Haoran Zhou, Kang Xia, Cheng Mei, Jiahao Wang, Tong Lu
+[pdf] [supp] [bibtex]
+
+Inlier Confidence Calibration for Point Cloud Registration
+Yongzhe Yuan, Yue Wu, Xiaolong Fan, Maoguo Gong, Qiguang Miao, Wenping Ma
+[pdf] [supp] [bibtex]
+
+ColorPCR: Color Point Cloud Registration with Multi-Stage Geometric-Color Fusion
+Juncheng Mu, Lin Bie, Shaoyi Du, Yue Gao
+[pdf] [supp] [bibtex]
+
+Extend Your Own Correspondences: Unsupervised Distant Point Cloud Registration by Progressive Distance Extension
+Quan Liu, Hongzi Zhu, Zhenxi Wang, Yunsong Zhou, Shan Chang, Minyi Guo
+[pdf] [supp] [arXiv] [bibtex]
+
+Construct to Associate: Cooperative Context Learning for Domain Adaptive Point Cloud Segmentation
+Guangrui Li
+[pdf] [supp] [bibtex]
+
+CausalPC: Improving the Robustness of Point Cloud Classification by Causal Effect Identification
+Yuanmin Huang, Mi Zhang, Daizong Ding, Erling Jiang, Zhaoxiang Wang, Min Yang
+[pdf] [supp] [bibtex]
+
+Visual Point Cloud Forecasting enables Scalable Autonomous Driving
+Zetong Yang, Li Chen, Yanan Sun, Hongyang Li
+[pdf] [supp] [arXiv] [bibtex]
+
+StraightPCF: Straight Point Cloud Filtering
+Dasith de Silva Edirimuni, Xuequan Lu, Gang Li, Lei Wei, Antonio Robles-Kelly, Hongdong Li
+[pdf] [supp] [arXiv] [bibtex]
+
+Weakly Supervised Point Cloud Semantic Segmentation via Artificial Oracle
+Hyeokjun Kweon, Jihun Kim, Kuk-Jin Yoon
+[pdf] [supp] [bibtex]
+
+Unsupervised Template-assisted Point Cloud Shape Correspondence Network
+Jiacheng Deng, Jiahao Lu, Tianzhu Zhang
+[pdf] [arXiv] [bibtex]
+
+PDF: A Probability-Driven Framework for Open World 3D Point Cloud Semantic Segmentation
+Jinfeng Xu, Siyuan Yang, Xianzhi Li, Yuan Tang, Yixue Hao, Long Hu, Min Chen
+[pdf] [arXiv] [bibtex]
+
+Single-View Scene Point Cloud Human Grasp Generation
+Yan-Kang Wang, Chengyi Xing, Yi-Lin Wei, Xiao-Ming Wu, Wei-Shi Zheng
+[pdf] [supp] [arXiv] [bibtex]
+
+Learning Instance-Aware Correspondences for Robust Multi-Instance Point Cloud Registration in Cluttered Scenes
+Zhiyuan Yu, Zheng Qin, Lintao Zheng, Kai Xu
+[pdf] [supp] [arXiv] [bibtex]
+
+A Conditional Denoising Diffusion Probabilistic Model for Point Cloud Upsampling
+Wentao Qu, Yuantian Shao, Lingwu Meng, Xiaoshui Huang, Liang Xiao
+[pdf] [supp] [arXiv] [bibtex]
+
+SPU-PMD: Self-Supervised Point Cloud Upsampling via Progressive Mesh Deformation
+Yanzhe Liu, Rong Chen, Yushi Li, Yixi Li, Xuehou Tan
+[pdf] [supp] [bibtex]
+
+A Unified Framework for Human-centric Point Cloud Video Understanding
+Yiteng Xu, Kecheng Ye, Xiao Han, Yiming Ren, Xinge Zhu, Yuexin Ma
+[pdf] [supp] [arXiv] [bibtex]
+
+Dynamic Cues-Assisted Transformer for Robust Point Cloud Registration
+Hong Chen, Pei Yan, Sihe Xiang, Yihua Tan
+[pdf] [bibtex]
+
+HandDiff: 3D Hand Pose Estimation with Diffusion on Image-Point Cloud
+Wencan Cheng, Hao Tang, Luc Van Gool, Jong Hwan Ko
+[pdf] [arXiv] [bibtex]
+
+OneFormer3D: One Transformer for Unified Point Cloud Segmentation
+Maxim Kolodiazhnyi, Anna Vorontsova, Anton Konushin, Danila Rukhovich
+[pdf] [supp] [arXiv] [bibtex]
+
+Point Cloud Pre-training with Diffusion Models
+Xiao Zheng, Xiaoshui Huang, Guofeng Mei, Yuenan Hou, Zhaoyang Lyu, Bo Dai, Wanli Ouyang, Yongshun Gong
+[pdf] [supp] [arXiv] [bibtex]
+
+LTA-PCS: Learnable Task-Agnostic Point Cloud Sampling
+Jiaheng Liu, Jianhao Li, Kaisiyuan Wang, Hongcheng Guo, Jian Yang, Junran Peng, Ke Xu, Xianglong Liu, Jinyang Guo
+[pdf] [bibtex]
+
+Spherical Mask: Coarse-to-Fine 3D Point Cloud Instance Segmentation with Spherical Representation
+Sangyun Shin, Kaichen Zhou, Madhu Vankadari, Andrew Markham, Niki Trigoni
+[pdf] [supp] [arXiv] [bibtex]
+
+TetraSphere: A Neural Descriptor for O(3)-Invariant Point Cloud Analysis
+Pavlo Melnyk, Andreas Robinson, Michael Felsberg, Mårten Wadenbäck
+[pdf] [supp] [bibtex]
+
+Geometrically-driven Aggregation for Zero-shot 3D Point Cloud Understanding
+Guofeng Mei, Luigi Riz, Yiming Wang, Fabio Poiesi
+[pdf] [supp] [arXiv] [bibtex]
+
+Local-consistent Transformation Learning for Rotation-invariant Point Cloud Analysis
+Yiyang Chen, Lunhao Duan, Shanshan Zhao, Changxing Ding, Dacheng Tao
+[pdf] [supp] [arXiv] [bibtex]
+
+Neural Point Cloud Diffusion for Disentangled 3D Shape and Appearance Generation
+Philipp Schröppel, Christopher Wewer, Jan Eric Lenssen, Eddy Ilg, Thomas Brox
+[pdf] [supp] [bibtex]
+
+Cloud-Device Collaborative Learning for Multimodal Large Language Models
+Guanqun Wang, Jiaming Liu, Chenxuan Li, Yuan Zhang, Junpeng Ma, Xinyu Wei, Kevin Zhang, Maurice Chong, Renrui Zhang, Yijiang Liu, Shanghang Zhang
+[pdf] [supp] [arXiv] [bibtex]
+
+Object Dynamics Modeling with Hierarchical Point Cloud-based Representations
+Chanho Kim, Li Fuxin
+[pdf] [supp] [arXiv] [bibtex]
+
+X-3D: Explicit 3D Structure Modeling for Point Cloud Recognition
+Shuofeng Sun, Yongming Rao, Jiwen Lu, Haibin Yan
+[pdf] [supp] [bibtex]
+
+Multiway Point Cloud Mosaicking with Diffusion and Global Optimization
+Shengze Jin, Iro Armeni, Marc Pollefeys, Daniel Barath
+[pdf] [supp] [arXiv] [bibtex]
+
+UniRepLKNet: A Universal Perception Large-Kernel ConvNet for Audio Video Point Cloud Time-Series and Image Recognition
+Xiaohan Ding, Yiyuan Zhang, Yixiao Ge, Sijie Zhao, Lin Song, Xiangyu Yue, Ying Shan
+[pdf] [supp] [arXiv] [bibtex]
+
+Rethinking Few-shot 3D Point Cloud Semantic Segmentation
+Zhaochong An, Guolei Sun, Yun Liu, Fayao Liu, Zongwei Wu, Dan Wang, Luc Van Gool, Serge Belongie
+[pdf] [supp] [arXiv] [bibtex]
+
+FreePoint: Unsupervised Point Cloud Instance Segmentation
+Zhikai Zhang, Jian Ding, Li Jiang, Dengxin Dai, Guisong Xia
+[pdf] [arXiv] [bibtex]
