@@ -101,23 +101,20 @@
 
 
 
-Pre-training and Transfer Learning
-
-"Dynamic Adapter Meets Prompt Tuning: Parameter-Efficient Transfer Learning"
-"Mitigating Object Dependencies: Improving Point Cloud Self-Supervised Learning"
-"Geometrically-driven Aggregation for Zero-shot 3D Point Cloud Understanding"
-
-
-Quality Assessment
-
-"Contrastive Pre-Training with Multi-View Fusion for No-Reference Point Cloud Quality Assessment"
+**Pre-training and Transfer Learning**
+- "Dynamic Adapter Meets Prompt Tuning: Parameter-Efficient Transfer Learning"
+- "Mitigating Object Dependencies: Improving Point Cloud Self-Supervised Learning"
+- "Geometrically-driven Aggregation for Zero-shot 3D Point Cloud Understanding"
 
 
-Occupancy and Scene Understanding
+**Quality Assessment**
+- "Contrastive Pre-Training with Multi-View Fusion for No-Reference Point Cloud Quality Assessment"
 
-"Unsupervised Occupancy Learning from Sparse Point Cloud"
-"L4D-Track: Language-to-4D Modeling Towards 6-DoF Tracking and Shape Reconstruction"
-"Object Dynamics Modeling with Hierarchical Point Cloud-based Representations"
+
+**Occupancy and Scene Understanding**
+- "Unsupervised Occupancy Learning from Sparse Point Cloud"
+- "L4D-Track: Language-to-4D Modeling Towards 6-DoF Tracking and Shape Reconstruction"
+- "Object Dynamics Modeling with Hierarchical Point Cloud-based Representations"
 
 ---
 
